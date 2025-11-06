@@ -14,7 +14,6 @@ shared_scripts {
 
 client_scripts {
   "client/import.lua",
-  "client/main.lua"
 }
 
 server_scripts {
